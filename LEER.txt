@@ -1,0 +1,4 @@
+Para correr el proyecto se necesita utilizar XAMPP o WAMP y crear las 2 bases de datos que se encuentra dentro de la carpeta del mismo nombre
+
+Al iniciar el sistema podra accesar con el usuario por defecto admin y contraseña admin
+
